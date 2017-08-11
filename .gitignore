@@ -1,0 +1,12 @@
+ssd_mobilenet_v1_coco_11_06_2017/
+.DS_Store
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/object_detection.iml
+.idea/workspace.xml
+faster_rcnn_resnet101_coco_11_06_2017.tar.gz
+faster_rcnn_resnet101_coco_11_06_2017/
+slim/
+ssd_mobilenet_v1_coco_11_06_2017.tar.gz
+venv/
