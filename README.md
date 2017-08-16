@@ -44,4 +44,7 @@ Paste this
 Save and run by doing
 ```python detect.py ssd_mobilenet_v1_coco_11_06_2017```
 
+Might wanna run
+```brew switch jpeg 9d```
+Had to switch to 8d to make sure PHP still worked for my Virtual Machine.
 
